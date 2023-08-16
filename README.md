@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alepaillas.
-- 👀 I’m interested in linux, web development and the intersection of art and programming.
+- 👀 I’m interested in linux, web development and the intersection of art & programming.
 - 🌱 I’m currently studying to become a full stack developer.
 - 💞️ I’m looking to collaborate on free software projects.
 - 📫 How to reach me: https://alepaillas.com
